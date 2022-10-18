@@ -1,0 +1,5 @@
+Display Modes
+
+In Rhino go to Tools > Options > View > Display Modes
+
+Click the Import button and select a .ini file (example: Rendered-Edges.ini) to import a display mode. The display mode should now appear in your Display Modes list and in the drop-down panel next to each view name (where you can select it).
