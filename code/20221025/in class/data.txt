@@ -1,0 +1,2 @@
+regole usate
+AO_01|0=90<AO_01|1%0
