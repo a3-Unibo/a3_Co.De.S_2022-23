@@ -1,4 +1,4 @@
-Test ID,Area,Volume,Impronta,Direzionalità,Estensione,Floor factor
+Test ID,Area,Volume,Footprint,Direcionality,Extension,Floor factor
 a,4.055608,1.555018,11.629065,13.236573,3.196002,8.130249
 b,1.064472,8.595034,6.501537,12.795067,3.725349,9.590332
 c,8.006945,6.018649,10.18089,9.904479,2.457585,5.875481
